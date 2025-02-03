@@ -1,0 +1,7 @@
+font-family = "0xProto Nerd Font Mono"
+font-size = 16
+
+theme = catppuccin-macchiato
+
+# To prevent annoying confirmation window on tab close
+confirm-close-surface = false
