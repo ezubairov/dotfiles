@@ -75,6 +75,3 @@ export EDITOR="nvim"
 # Created by `pipx` on 2025-05-20 15:19:21
 export PATH="$PATH:/Users/evgeniizubairov/.local/bin"
 
-# This makes DOOM Emacs available in $PATH
-export PATH="$HOME/.emacs.d/bin:$PATH"
-eval "$(mise activate zsh)"
